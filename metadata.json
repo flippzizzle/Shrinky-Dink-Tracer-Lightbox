@@ -1,0 +1,6 @@
+{
+  "name": "Shrinky Trace",
+  "description": "Minimalist light table and touch-lock screen tracing app for Shrinky Dinks and craft projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
